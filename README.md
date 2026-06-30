@@ -21,3 +21,9 @@ O projeto foi concebido utilizando conceitos de **Lean Inception**, definindo um
 ## Objetivo
 
 O principal objetivo deste projeto é aplicar conceitos de desenvolvimento de software, engenharia de requisitos, metodologias ágeis e arquitetura de aplicações web por meio da construção de um sistema funcional para controle financeiro pessoal.
+
+Link MIRO: https://miro.com/app/board/uXjVHEC7xXg=/?share_link_id=986388621235
+
+Link JIRA: https://victorcamposbortolotto.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?atlOrigin=eyJpIjoiMGY5YjZjMGU4YWYwNGY0MDgyOTQ3ZDA0YWU3YmU0MDEiLCJwIjoiaiJ9
+
+Link FIGMA: https://www.figma.com/design/meF0m5xmRJi1obm9nabucV/Eng.-Software?node-id=0-1&t=zMQGVj4XSZD3r2EO-1
